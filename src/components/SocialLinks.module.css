@@ -1,0 +1,24 @@
+.social {
+    margin-bottom: auto;
+  }
+  
+  .social p {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .icons {
+    display: flex;
+    gap: 1rem;
+    font-size: 1.5rem;
+  }
+  
+  .icons svg {
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .icons svg:hover {
+    color: #3fa9f5;
+  }
+  
